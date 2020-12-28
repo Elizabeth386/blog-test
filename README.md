@@ -1,2 +1,2 @@
 # blog-test
-xiugai test
+xiugai test test
